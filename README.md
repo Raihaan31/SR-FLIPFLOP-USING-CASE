@@ -51,8 +51,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 Program for flipflops and verify its truth table in quartus using Verilog programming.
 ```
-Developed by: STEFFI J 
-RegisterNumber: 24900405
+Developed by: R Raihaan ahmed 
+RegisterNumber:24010543
 
 ```
 ```
